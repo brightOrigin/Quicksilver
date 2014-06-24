@@ -345,15 +345,6 @@
 		CD14B79118D06609000FE86A /* QSThreadSafeMutableDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = CD14B78D18D065F5000FE86A /* QSThreadSafeMutableDictionary.m */; };
 		CD1B17D9158A573000E4A030 /* VDKQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = CDE1E661158A4D0900355A9F /* VDKQueue.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		CD1B17DA158A573200E4A030 /* VDKQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = CDE1E660158A4D0900355A9F /* VDKQueue.h */; settings = {ATTRIBUTES = (Public, ); }; };
-<<<<<<< HEAD
-		CD34CCDF192BA28400AC63A6 /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29B97324FDCFA39411CA2CEA /* AppKit.framework */; };
-		CD39DE5F16B43FBF0087B09E /* (null) in Sources */ = {isa = PBXBuildFile; };
-		CD39DE6016B43FC40087B09E /* (null) in Headers */ = {isa = PBXBuildFile; };
-		CD39DE6216B43FDD0087B09E /* (null) in Resources */ = {isa = PBXBuildFile; };
-		CD3AEA9917D7F0030011F2E3 /* (null) in Sources */ = {isa = PBXBuildFile; };
-		CD3AEA9A17D7F0300011F2E3 /* (null) in Headers */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (Public, ); }; };
-=======
->>>>>>> xcode noise
 		CD3F9D68136183250013FCB7 /* QSClangAnalyzer.h in Headers */ = {isa = PBXBuildFile; fileRef = 42ADF4FD1317237900C68070 /* QSClangAnalyzer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CD4FA6E0157A13D600E549BD /* QSHotKeyEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = CD4FA6DF157A13D600E549BD /* QSHotKeyEvent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CD4FA6E2157A13DE00E549BD /* QSHotKeyEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = CD4FA6E1157A13DE00E549BD /* QSHotKeyEvent.m */; };
